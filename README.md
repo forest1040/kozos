@@ -1,4 +1,4 @@
 #kozos
-([KOZOS](http://kozos.jp/kozos/index.html "KOZOSプロジェクト"))の組込み用のオープンソースOSであるKOZOSのH8用最新ソースコードっぽいものをあげてみました。
+([KOZOSプロジェクト](http://kozos.jp/kozos/index.html))の組込み用のオープンソースOSであるKOZOSのH8用最新ソースコードっぽいものをあげてみました。
 
 
